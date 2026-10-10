@@ -1,5 +1,9 @@
 <Solution>
   <Project Path="01 Den smarta lampan/01 Den smarta lampan.csproj" />
   <Project Path="02 Digitala Dusdjuret/02 Digitala Dusdjuret.csproj" />
+  <Project Path="03 Profilen/03 Profilen.csproj" Id="42228551-2ce0-4900-ad93-c4a512c1167d" />
+  <Project Path="04 Biljetten/04 Biljetten.csproj" Id="cf5a3e0c-e114-44ad-8567-c1f43538d787" />
+  <Project Path="05 Räknaren/05 Räknaren.csproj" Id="b1bb6ffc-4feb-471a-a3b3-5999f724b3a6" />
+  <Project Path="06 Bankkonto/06 Bankkonto.csproj" Id="ce73c27b-7595-4f66-abd2-8bd4979eb346" />
   <Project Path="Test/Test.csproj" />
 </Solution>
