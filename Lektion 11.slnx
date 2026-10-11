@@ -7,5 +7,8 @@
   <Project Path="06 Bankkonto/06 Bankkonto.csproj" Id="ce73c27b-7595-4f66-abd2-8bd4979eb346" />
   <Project Path="07 Temperaturregulatorn/07 Temperaturregulatorn.csproj" Id="baf671d3-f14a-4d29-8243-a65b7e3ed65c" />
   <Project Path="08 Rollspelskaraktären/08 Rollspelskaraktären.csproj" Id="ce4eba2b-9604-4264-b028-c2fdd4dc647c" />
+  <Project Path="09 Kassaskåpet/09 Kassaskåpet.csproj" Id="f1bece46-d762-4e22-9d36-cccfbd7ad083" />
+  <Project Path="10 Kaffemaskinen/10 Kaffemaskinen.csproj" Id="469e480a-723f-4997-b811-da68f20c23e7" />
+  <Project Path="11 Flygbokningen/11 Flygbokningen.csproj" Id="f1724687-8248-438c-bbfc-8f6f3f6922b1" />
   <Project Path="Test/Test.csproj" />
 </Solution>
