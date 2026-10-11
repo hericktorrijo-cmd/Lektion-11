@@ -5,5 +5,6 @@
   <Project Path="04 Biljetten/04 Biljetten.csproj" Id="cf5a3e0c-e114-44ad-8567-c1f43538d787" />
   <Project Path="05 Räknaren/05 Räknaren.csproj" Id="b1bb6ffc-4feb-471a-a3b3-5999f724b3a6" />
   <Project Path="06 Bankkonto/06 Bankkonto.csproj" Id="ce73c27b-7595-4f66-abd2-8bd4979eb346" />
+  <Project Path="07 Temperaturregulatorn/07 Temperaturregulatorn.csproj" Id="baf671d3-f14a-4d29-8243-a65b7e3ed65c" />
   <Project Path="Test/Test.csproj" />
 </Solution>
